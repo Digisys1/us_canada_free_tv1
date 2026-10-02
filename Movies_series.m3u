@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,FilmRise Movies
+https://d1q3f2p55g1v1.cloudfront.net/v1/master/filmrisemovies.m3u8
+#EXTINF:-1,FilmRise Series
+https://d1q3f2p55g1v1.cloudfront.net/v1/master/filmriseseries.m3u8
+#EXTINF:-1,CineLife
+https://d3nljkrx6mjqra.cloudfront.net/v1/master/cinelife.m3u8
+#EXTINF:-1,Crackle
+https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Popcornflix
+https://popcornflix-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Retro TV
+https://retrousa-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Classic TV
+https://classic-tv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Movieland
+https://movieland-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Rewind TV
+https://rewindtv-plex.amagi.tv/playlist.m3u8
