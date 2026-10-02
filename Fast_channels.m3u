@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,Xumo Action
+https://xumo-action-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Xumo Comedy
+https://xumo-comedy-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Xumo Drama
+https://xumo-drama-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Xumo Western
+https://xumo-western-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,FilmRise FAST
+https://filmrisefast-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Vevo Pop
+https://vevo-pop-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Stingray Retro
+https://stingray-retro-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Roku Movies FAST
+https://roku-movies-plex.amagi.tv/playlist.m3u8
