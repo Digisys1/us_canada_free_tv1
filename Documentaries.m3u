@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,Documentary+
+https://docplus-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Smithsonian Free
+https://smithsonian-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/playlist.m3u8
+#EXTINF:-1,DW Documentary
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1,Journy
+https://journy-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Real Stories
+https://realstories-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Wonder
+https://wonder-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Xplore
+https://xplore-plex.amagi.tv/playlist.m3u8
