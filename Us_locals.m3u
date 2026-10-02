@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,PBS National
+https://pbsnational-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,PBS Kids
+https://pbskids-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,ABC News
+https://abcnews-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,NBC News
+https://nbcnews-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,CBS News
+https://cbsnews-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,FOX Soul
+https://foxsoul-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Scripps News
+https://scrippsnews-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Court TV
+https://courttv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Ion Mystery
+https://ionmystery-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Bloomberg
+https://bloomberg-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Cheddar News
+https://cheddar-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Newsmax
+https://newsmax-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,NASA TV
+https://ntv1-lh.akamaihd.net/i/NASA_1@319270/master.m3u8
+#EXTINF:-1,WeatherNation
+https://weathernation-plex.amagi.tv/playlist.m3u8
