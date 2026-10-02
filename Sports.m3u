@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1,Stadium
+https://stadium-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,SportsGrid
+https://sportsgrid-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,FTF Sports
+https://ftf-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/2020000/RBTV/master.m3u8
+#EXTINF:-1,Edge Sports
+https://edgesports-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,World Poker Tour
+https://wpt-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Motorsport TV
+https://motorsporttv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Boxing TV
+https://boxingtv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,MMA Junkie
+https://mmatv-plex.amagi.tv/playlist.m3u8
