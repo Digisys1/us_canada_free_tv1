@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,CBC News
+https://cbcnewslive.akamaized.net/hls/live/2043010/CBCNews/master.m3u8
+#EXTINF:-1,CBC Docs
+https://cbcdocs-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,CTV News
+https://ctvnews-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Global News
+https://globalnews-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,CPAC
+https://cpaclive-lh.akamaihd.net/i/cpacstream_1@320295/master.m3u8
+#EXTINF:-1,CHCH
+https://chch-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,NTV
+https://ntv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,AMI TV
+https://ami-tv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Stingray Music
+https://stingray-music-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Wild TV Free
+https://wildtv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Weather Network
+https://weathernetwork-plex.amagi.tv/playlist.m3u8
